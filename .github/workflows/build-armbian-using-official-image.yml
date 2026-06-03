@@ -303,7 +303,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - nazz
 
 env:
   TZ: Etc/UTC

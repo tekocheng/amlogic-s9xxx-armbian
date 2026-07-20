@@ -1,8 +1,9 @@
 verbosity=7
 bootlogo=false
 console=both
+earlycon=on
 overlay_prefix=
-overlays=
-fdtfile=rockchip/rk3576-nanopi-m5.dtb
+fdtfile=rockchip/rk3576-lubancat-3.dtb
 rootdev=/dev/mmcblk0p2
 rootfstype=ext4
+
